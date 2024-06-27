@@ -1,5 +1,4 @@
-#ifndef GRAPH_ALGORITHMS_H
-#define GRAPH_ALGORITHMS_H
+#pragma once
 
 #include <vector>
 #include <utility> // for std::pair
@@ -39,5 +38,3 @@ namespace AlgorithmLibrary {
 
     } // namespace Graph
 } // namespace AlgorithmLibrary
-
-#endif // GRAPH_ALGORITHMS_H

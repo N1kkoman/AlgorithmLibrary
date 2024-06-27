@@ -1,6 +1,4 @@
 #pragma once
-#ifndef STRING_ALGORITHMS_H
-#define STRING_ALGORITHMS_H
 
 #include <string>
 #include <vector>
@@ -19,4 +17,3 @@ namespace AlgorithmLibrary {
     } // namespace String
 } // namespace AlgorithmLibrary
 
-#endif // STRING_ALGORITHMS_H

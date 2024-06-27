@@ -1,7 +1,4 @@
 #pragma once
-#ifndef SEARCH_ALGORITHMS_H
-#define SEARCH_ALGORITHMS_H
-
 #include <vector>
 
 namespace AlgorithmLibrary {
@@ -18,4 +15,3 @@ namespace AlgorithmLibrary {
     } // namespace Search
 } // namespace AlgorithmLibrary
 
-#endif // SEARCH_ALGORITHMS_H

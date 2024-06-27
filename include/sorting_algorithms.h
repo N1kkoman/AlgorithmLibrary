@@ -1,6 +1,4 @@
 #pragma once
-#ifndef SORTING_ALGORITHMS_H
-#define SORTING_ALGORITHMS_H
 
 #include <vector>
 
@@ -20,4 +18,3 @@ namespace AlgorithmLibrary {
     } // namespace Sorting
 } // namespace AlgorithmLibrary
 
-#endif // SORTING_ALGORITHMS_H
